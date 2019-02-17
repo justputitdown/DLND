@@ -12,3 +12,6 @@ In this project, i will build a function that when given an image of a dog, it w
 ## 3_rnn_simpsons
 First Recurrent Neural Network (RNN) project.
 In this project, Generate a new scene/part in the style of the simpsons using current scripts.
+
+## 3b_firefly_script
+Attempting to generate more firefly scenes by using the original scripts.
